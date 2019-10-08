@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Christiana.unity
+- path: Assets/Eric.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
